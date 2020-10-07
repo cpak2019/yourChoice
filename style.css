@@ -8,6 +8,7 @@ body{
   box-shadow: none;
   border: none;
   margin-top: 0px;
+  margin-bottom: 25px;
 }
 
 .top.ui.sticky{
@@ -19,11 +20,19 @@ p{
   line-height: 19px;
 }
 
-h2{
+p3{
+  margin-top: 15px;
   font-family: oswald;
+  color: #707070;
+  font-size: 20px;
 }
 
+p2{
+  font-family: oswald;
+  color: #707070;
+}
 
 .grey.background{
-  background-color: grey;
+  margin-top: 0;
+  background-color: #1e1e1e;
 }
