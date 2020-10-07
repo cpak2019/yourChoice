@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+  font-family: oswald;
+}
+
+.top.ui.borderless.menu {
+  background-color: black;
+  box-shadow: none;
+  border: none;
+  margin-top: 0px;
+}
+
+.top.ui.sticky{
+  background-color: black;
+}
+
+p{
+  font-family: oswald;
+  line-height: 19px;
+}
+
+h2{
+  font-family: oswald;
+}
+
+
+.grey.background{
+  background-color: grey;
+}
